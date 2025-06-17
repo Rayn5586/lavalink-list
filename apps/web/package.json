@@ -19,7 +19,7 @@
     "classnames": "^2.5.1",
     "dotenv": "^16.4.5",
     "ms": "^2.1.3",
-    "next": "^14.1.4",
+    "next": "^14.2.30",
     "next-themes": "^0.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -28,7 +28,7 @@
     "sharp": "^0.33.3",
     "supports-color": "^9.4.0",
     "tailwind-merge": "^2.2.2",
-    "undici": "^6.12.0"
+    "undici": "^6.21.2"
   },
   "devDependencies": {
     "@appu/typescript-config" : "workspace:*",
