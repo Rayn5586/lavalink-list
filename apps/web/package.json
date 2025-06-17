@@ -28,7 +28,7 @@
     "sharp": "^0.33.3",
     "supports-color": "^9.4.0",
     "tailwind-merge": "^2.2.2",
-    "undici": "^6.12.0"
+    "undici": "^6.21.2"
   },
   "devDependencies": {
     "@appu/typescript-config" : "workspace:*",
